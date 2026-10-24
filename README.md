@@ -15,6 +15,7 @@ This project aims at answering the following questions;
 ### Python
 I used python to clean and inspect the dataset.
 [Data_cleaning](python-cleaning.jpg)!
+[Data_inspection](Inspection.jpg)!
 ### MySQL
 I used MySQL to perform exploratory data analysis.
 [Exploratory_data_analysis](EDA.jpg)!
