@@ -14,7 +14,7 @@ This project aims at answering the following questions;
 3. Power BI - Data transformation, DAX for calculation and aggregation, data visualization.
 ### Python
 I used python to clean and inspect the dataset.
-[Data_cleaning](python-cleaning.jpg)!
+[Data_cleaning](Python-cleaning.jpg)!
 [Data_inspection](Inspection.jpg)!
 ### MySQL
 I used MySQL to perform exploratory data analysis.
